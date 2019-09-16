@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Pantry</string>
+    <string name="show_inventory">Show Inventory</string>
+    <string name="show_products">Show Products</string>
+    <string name="scan">Scan</string>
+    <string name="simple_scanner_activity">Scan a Product Barcode</string>
+    <string name="inventory_activity">Inventory</string>
+    <string name="products_activity">Products</string>
+    <string name="flash_on">Flash [ON]</string>
+    <string name="flash_off">Flash [OFF]</string>
+    <string name="auto_focus_on">Auto Focus [ON]</string>
+    <string name="auto_focus_off">Auto Focus [OFF]</string>
+    <string name="formats">Formats</string>
+    <string name="choose_formats">Choose Formats</string>
+    <string name="select_camera">Select a Camera</string>
+    <string name="expire_date_hint">MM/DD/YYYY</string>
+    <string name="purch_price_hint">NNN.MM</string>
+    <string name="ok_button">OK</string>
+    <string name="add_button">Add One</string>
+    <string name="remove_button">Remove One</string>
+    <string name="search_button">Search</string>
+    <string name="cancel_button">Cancel</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_database">Database</string>
+    <string name="settings_activity">Settings</string>
+    <string name="pref_hostname_key" translatable="false">hostname</string>
+    <string name="pref_hostname_default" translatable="false">192.168.42.1</string>
+    <string name="pref_hostname_title">Hostname</string>
+</resources>
+

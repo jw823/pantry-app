@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:defaultValue="@string/pref_hostname_default"
+        android:key="@string/pref_hostname_key"
+        android:title="@string/pref_hostname_title" />
+</PreferenceScreen>
